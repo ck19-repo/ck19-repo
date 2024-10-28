@@ -1,12 +1,12 @@
-# Other Repositories
+# Repositories
 This account hosts:
 
 | Repository Link          	| Name                |
 |-------------------------	|-------------------	|
-| ck19-repo.github.io/ca  	| Cracked Archive   	|
-| ck19-repo.github.io/ga  	| General Archive   	|
-| ck19-repo.github.io/bb  	| BigBoss Archive   	|
-| ck19-repo.github.io/emp 	| EatMyPhone Backup 	|
+| [ck19-repo.github.io/ca](https://ck19-repo.github.io/ca)  	| Cracked Archive   	|
+| [ck19-repo.github.io/ga](https://ck19-repo.github.io/ga)  	| General Archive   	|
+| [ck19-repo.github.io/bb](https://ck19-repo.github.io/bb)  	| BigBoss Archive   	|
+| [ck19-repo.github.io/emp](https://ck19-repo.github.io/emp) 	| EatMyPhone Backup 	|
 
 <!--
 ![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
@@ -25,7 +25,3 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <!--- [![my stats!](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark)](https://github.com/anuraghazra/github-readme-stats) !--->
-
-![Stats](https://github-readme-stats.vercel.app/api?username=calvink19&show_icons=true&theme=github_dark&rank_icon=github)
-
-`UTC-6 (North America: Central Time)`
