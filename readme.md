@@ -1,4 +1,4 @@
-# Repositories
+# Other Repositories
 This account hosts:
 
 | Repository Link          	| Name                |
