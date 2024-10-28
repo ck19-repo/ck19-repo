@@ -1,5 +1,4 @@
 # Other Repositories
-This account hosts:
 
 | Repository Link          	| Name                |
 |-------------------------	|-------------------	|
@@ -7,6 +6,8 @@ This account hosts:
 | [ck19-repo.github.io/ga](https://ck19-repo.github.io/ga)  	| General Archive   	|
 | [ck19-repo.github.io/bb](https://ck19-repo.github.io/bb)  	| BigBoss Archive   	|
 | [ck19-repo.github.io/emp](https://ck19-repo.github.io/emp) 	| EatMyPhone Backup 	|
+
+###### *ONLY for archival purposes.*
 
 <!--
 ![Discord](https://discord.c99.nl/widget/theme-1/1012513412594536528.png)
