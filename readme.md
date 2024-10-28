@@ -1,11 +1,11 @@
 # Other Repositories
 
-| Repository Link          	| Name                |
+| Repository               	| Name                |
 |-------------------------	|-------------------	|
-| [ck19-repo.github.io/ca](https://ck19-repo.github.io/ca)  	| Cracked Archive   	|
-| [ck19-repo.github.io/ga](https://ck19-repo.github.io/ga)  	| General Archive   	|
-| [ck19-repo.github.io/bb](https://ck19-repo.github.io/bb)  	| BigBoss Archive   	|
-| [ck19-repo.github.io/emp](https://ck19-repo.github.io/emp) 	| EatMyPhone Backup 	|
+| [ck19r.github.io/ca](https://ck19r.github.io/ca)  	| Cracked Archive   	|
+| [ck19r.github.io/ga](https://ck19r.github.io/ga)  	| General Archive   	|
+| [ck19r.github.io/bb](https://ck19r.github.io/bb)  	| BigBoss Archive   	|
+| [ck19r.github.io/emp](https://ck19r.github.io/emp) 	| EatMyPhone Backup 	|
 
 ###### *ONLY for archival purposes.*
 
